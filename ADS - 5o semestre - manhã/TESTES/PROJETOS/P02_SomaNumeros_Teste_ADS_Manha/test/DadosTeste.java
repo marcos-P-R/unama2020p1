@@ -6,10 +6,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import p02_somanumeros_teste_ads_manha.Dados;
 
-/**
- *
- * @author marcel
- */
 public class DadosTeste {
     
     Dados d;
@@ -59,6 +55,9 @@ public class DadosTeste {
         d.setDados("5, 7, 9");
         assertEquals(21.0, d.somaDados(), 0);
     }
-    
-    
-}
+} // fim da classe DadosTeste
+
+
+
+
+

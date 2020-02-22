@@ -17,6 +17,6 @@ public class Dados {
     public void setDados(String dados) {
         this.dados = dados;
     }
-    
-    
 }
+
+
