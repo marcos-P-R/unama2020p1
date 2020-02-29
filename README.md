@@ -13,3 +13,6 @@ Desenvolvimento de Aplicativos Móveis<br/><br/>
 
 BCC - 3o semestre - manhã:<br/>
 Programação Orientada a Objetos<br/><br/>
+
+ENG. ELÉTRICA - 5o semestre - noite:<br/>
+Linguagem de Programação<br/><br/>
